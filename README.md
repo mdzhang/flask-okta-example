@@ -12,3 +12,20 @@ export OKTA_AUTH_TOKEN=
 export SECRET_KEY=
 ```
 
+Install dependencies:
+
+```sh
+pipenv install
+```
+
+Start pipenv shell:
+
+```sh
+pipenv shell
+```
+
+Start Flask app:
+
+```sh
+make run
+```
